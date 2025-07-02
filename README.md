@@ -171,9 +171,7 @@ toast-tracker/
 
 ## 📞 지원
 
-- 🐛 버그 리포트: [Issues](https://github.com/yourusername/toast-tracker/issues)
-- 💡 기능 제안: [Discussions](https://github.com/yourusername/toast-tracker/discussions)
-- 📧 연락처: your.email@example.com
+- 📧 연락처: rkdhs326@gmail.com
 
 ---
 
